@@ -1,0 +1,36 @@
+{
+  "people": [
+    {
+      "firstName": "ewr",
+      "lastName": "fsdf",
+      "email": "sdfs@sgsd.com",
+      "password": "sdfg",
+      "about": "srfgsd",
+      "id": 1
+    },
+    {
+      "firstName": "ewrfasdf ",
+      "lastName": "fsdf qwfasd",
+      "email": "sdfs@sgsd.com",
+      "password": "sdfg",
+      "about": "srfgsdwerf",
+      "id": 2
+    },
+    {
+      "firstName": "asda",
+      "lastName": "dvv fdg",
+      "email": "asd@gmail.com",
+      "password": "",
+      "about": "dssfd",
+      "id": 6
+    },
+    {
+      "firstName": "gfdfdfg",
+      "lastName": "f",
+      "password": "fffd",
+      "email": "asdrerer@gmail.com",
+      "about": "ghd",
+      "id": 7
+    }
+  ]
+}
