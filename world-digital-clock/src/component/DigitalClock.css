@@ -1,0 +1,21 @@
+span {
+  background-color: rgb(161, 10, 10);
+  color: black;
+  font-size: 8rem;
+}
+section{
+  margin-top: 20px;
+}
+
+div{
+  font-size: 4rem;
+}
+
+select {
+  font-size: 3rem;
+}
+
+h1{
+  font-size: 5rem;
+  color: red;
+}

@@ -1,0 +1,22 @@
+export default function PersonList({ list }) {
+    return (
+        <table className="table">
+            <tr>
+                <th>Firstname</th>
+                <th>Last name</th>
+                <th> email</th>
+                <th> pasword</th>
+                <th> about</th>
+            </tr>
+            {list.map((person, index) => 
+                <tr key={index}>
+                    <td>{person.firstName}</td>
+                    <td>{person.lastName}</td>
+                    <td>{person.email}</td>
+                    <td>{person.password}</td>
+                    <td>{person.about}</td>
+                </tr>
+            )}
+        </table>
+    )
+}
